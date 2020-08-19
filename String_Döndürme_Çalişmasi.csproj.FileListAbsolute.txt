@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\String_Döndürme_Çalişmasi\String_Döndürme_Çalişmasi\bin\Debug\netcoreapp3.1\String_Döndürme_Çalişmasi.exe
+C:\Users\Administrator\source\repos\String_Döndürme_Çalişmasi\String_Döndürme_Çalişmasi\bin\Debug\netcoreapp3.1\String_Döndürme_Çalişmasi.deps.json
+C:\Users\Administrator\source\repos\String_Döndürme_Çalişmasi\String_Döndürme_Çalişmasi\bin\Debug\netcoreapp3.1\String_Döndürme_Çalişmasi.runtimeconfig.json
+C:\Users\Administrator\source\repos\String_Döndürme_Çalişmasi\String_Döndürme_Çalişmasi\bin\Debug\netcoreapp3.1\String_Döndürme_Çalişmasi.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\String_Döndürme_Çalişmasi\String_Döndürme_Çalişmasi\bin\Debug\netcoreapp3.1\String_Döndürme_Çalişmasi.dll
+C:\Users\Administrator\source\repos\String_Döndürme_Çalişmasi\String_Döndürme_Çalişmasi\bin\Debug\netcoreapp3.1\String_Döndürme_Çalişmasi.pdb
+C:\Users\Administrator\source\repos\String_Döndürme_Çalişmasi\String_Döndürme_Çalişmasi\obj\Debug\netcoreapp3.1\String_Döndürme_Çalişmasi.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\String_Döndürme_Çalişmasi\String_Döndürme_Çalişmasi\obj\Debug\netcoreapp3.1\String_Döndürme_Çalişmasi.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\String_Döndürme_Çalişmasi\String_Döndürme_Çalişmasi\obj\Debug\netcoreapp3.1\String_Döndürme_Çalişmasi.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\String_Döndürme_Çalişmasi\String_Döndürme_Çalişmasi\obj\Debug\netcoreapp3.1\String_Döndürme_Çalişmasi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\String_Döndürme_Çalişmasi\String_Döndürme_Çalişmasi\obj\Debug\netcoreapp3.1\String_Döndürme_Çalişmasi.dll
+C:\Users\Administrator\source\repos\String_Döndürme_Çalişmasi\String_Döndürme_Çalişmasi\obj\Debug\netcoreapp3.1\String_Döndürme_Çalişmasi.pdb
+C:\Users\Administrator\source\repos\String_Döndürme_Çalişmasi\String_Döndürme_Çalişmasi\obj\Debug\netcoreapp3.1\String_Döndürme_Çalişmasi.genruntimeconfig.cache
